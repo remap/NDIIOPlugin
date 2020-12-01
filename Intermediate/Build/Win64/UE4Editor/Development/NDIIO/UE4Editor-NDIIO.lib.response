@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NDIIO.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\remap\Documents\GitHub\LastDays\Intermediate\Build\Win64\LaInvencionEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Development\NDIIO\Module.NDIIO.cpp.obj"
+"C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Development\NDIIO\Module.NDIIO.gen.cpp.obj"
+"C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Development\NDIIO\Default.rc2.res"
+/OUT:"C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Development\NDIIO\UE4Editor-NDIIO.lib"
+/INCLUDE:IMPLEMENT_MODULE_NDIIO

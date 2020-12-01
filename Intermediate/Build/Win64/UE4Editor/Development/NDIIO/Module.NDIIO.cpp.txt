@@ -1,0 +1,399 @@
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Development\NDIIO\Definitions.NDIIO.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Actors/NDIBroadcastActor.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Actors/NDIBroadcastActor.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Components/NDIViewportCaptureComponent.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\CinematicCamera\Public\CineCameraComponent.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CinematicCamera\CineCameraComponent.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Objects/Media/NDIMediaSender.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\NDIIOPluginAPI.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE\chrono
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE\ratio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE\xtimec.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Lib.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.compat.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.structs.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Find.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Recv.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Recv.ex.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Send.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Routing.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.utilities.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.deprecated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.FrameSync.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.DynamicLoad.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Lib.cplusplus.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Structures/NDIBroadcastConfiguration.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIBroadcastConfiguration.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Objects/Media/NDIMediaTexture2D.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIMediaTexture2D.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\MediaAssets\Public\BaseMediaSource.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\MediaAssets\Public\MediaSource.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Media\Public\IMediaOptions.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\MediaSource.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\BaseMediaSource.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIMediaSender.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\Slate/SceneViewport.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIViewportCaptureComponent.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIBroadcastActor.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Actors/NDIReceiveActor.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Actors/NDIReceiveActor.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundWave.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundBase.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound\SoundConcurrency.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundConcurrency.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundBase.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundGroups.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundGroups.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveLoadingBehavior.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\AudioPlatformConfiguration\Public\AudioCompressionSettings.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration\AudioCompressionSettings.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWave.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Components/NDIReceiverComponent.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Structures/NDIConnectionInformation.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Enumerations/NDISourceBandwidth.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDISourceBandwidth.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIConnectionInformation.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Objects/Media/NDIMediaReceiver.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Objects/Media/NDIMediaSoundWave.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIMediaSoundWave.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Structures/NDIReceiverPerformanceData.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIReceiverPerformanceData.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIMediaReceiver.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIReceiverComponent.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIReceiveActor.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Services/NDIConnectionService.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/Dsp.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\AudioDynamicParameter.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DeveloperSettings.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeveloperSettings.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound\ReverbSettings.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ReverbSettings.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundClass.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundMix.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSourceBus.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\AudioVirtualLoop.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\ActiveSound.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\Audio/AudioDebug.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Async/Async.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerMuteList.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/CameraShake.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraShake.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerCameraManager.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ForceFeedbackEffect.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Components/NDIBroadcastComponent.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Components/NDIBroadcastComponent.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIBroadcastComponent.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Components/NDIFinderComponent.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Components/NDIFinderComponent.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIFinderComponent.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Services/NDIFinderService.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Components/NDIReceiverComponent.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Components/NDIViewportCaptureComponent.cpp
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\EngineModule.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\LegacyScreenPercentageDriver.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ProfilingHelpers.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/WorldSettings.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/DamageType.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DamageType.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Info.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Info.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSettings.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime/Renderer/Private/ScenePrivate.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\TextureLayout3d.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\ScenePrivateBase.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderTargetPool.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\SceneCore.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Public\MeshMaterialShader.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\MeshMaterialShaderType.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\MaterialShaderType.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Public\MaterialShader.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Public\SceneRenderTargetParameters.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\ShaderParameterUtils.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Public\MeshDrawShaderBindings.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Experimental/Containers/RobinHoodHashTable.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Public\PrimitiveSceneInfo.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Math/GenericOctreePublic.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\LightSceneInfo.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Math/GenericOctree.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Math\GenericOctree.inl
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\DepthRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\ShaderBaseClasses.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\SceneHitProxyRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\ShadowRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\SystemTextures.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderGraphDefinitions.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderGraphPass.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.inl
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderGraphValidation.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.inl
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderGraphUtils.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\ShaderParameterStruct.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\PostProcess/SceneRenderTargets.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\PostProcess\../VT/VirtualTextureFeedback.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\LightRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\SceneRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\DistortionRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HeightfieldLighting.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\SkyAtmosphereRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\MeshDrawCommands.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\TranslucencyPass.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Public\GpuDebugRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\LightPropagationVolume.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands/HairStrandsRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsUtils.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Public\HairStrandsInterface.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsCluster.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsVoxelization.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsDeepShadow.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsClusters.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsLUT.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsVisibility.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsTransmittance.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsEnvironment.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsComposition.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsDebug.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\TextureLayout.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\LightMapRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\LightMap.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightMapTexture2D.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\VelocityRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\BasePassRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\FogRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\VolumetricFog.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\PlanarReflectionRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\UnrealEngine.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\ReflectionEnvironment.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\MobileBasePassRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Public\VolumeRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\ScreenRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\SceneSoftwareOcclusion.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\CommonRenderResources.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\VisualizeTexture.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\LightMapDensityRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime/Engine/Classes/VT/VirtualTexture.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VirtualTexture.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime/Renderer/Private/VT/VirtualTextureSpace.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\VT\VirtualTextureShared.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\VT\VirtualTexturePhysicalSpace.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\VT\TexturePagePool.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/BinaryHeap.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\VT\TexturePageMap.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\VT\VirtualTextureAllocator.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\VolumetricFogShared.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\DebugViewModeRendering.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\PrecomputedVolumetricLightmap.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Math/PackedVector.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\RayTracing/RaytracingOptions.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\RayTracing/RayTracingIESLightProfiles.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\Halton.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\HaltonUtilities.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Renderer\Private\BasePassRendering.inl
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/NDIIOPluginModule.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\NDIIOPluginModule.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\NDIIOPluginSettings.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIIOPluginSettings.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/TextureThumbnailRenderer.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\TextureThumbnailRenderer.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Objects/Libraries/NDIIOLibrary.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Objects/Libraries/NDIIOLibrary.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIIOLibrary.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Objects/Media/NDIMediaReceiver.cpp
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\RenderCore\Public\MediaShaders.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Objects/Media/NDIMediaSender.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Objects/Media/NDIMediaSoundWave.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Objects/Media/NDIMediaTexture2D.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Objects/Media/NDIMediaTextureResource.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\ExternalTexture.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Objects/Media/NDIMediaTextureResource.cpp
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfile.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/TextureLODSettings.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureLODSettings.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeviceProfile.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfileManager.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeviceProfileManager.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Services/NDIConnectionService.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Services/NDIFinderService.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Structures/NDIBroadcastConfiguration.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Structures/NDIConnectionInformation.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Source/Core/Classes/Structures/NDIReceiverPerformanceData.cpp

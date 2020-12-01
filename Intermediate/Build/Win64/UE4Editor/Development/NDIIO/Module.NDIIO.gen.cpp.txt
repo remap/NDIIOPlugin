@@ -1,0 +1,211 @@
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Development\NDIIO\Definitions.NDIIO.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIBroadcastActor.gen.cpp
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core/Public/Actors/NDIBroadcastActor.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Components/NDIViewportCaptureComponent.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\CinematicCamera\Public\CineCameraComponent.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CinematicCamera\CineCameraComponent.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Objects/Media/NDIMediaSender.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\NDIIOPluginAPI.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE\chrono
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE\ratio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE\xtimec.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Lib.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.compat.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.structs.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Find.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Recv.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Recv.ex.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Send.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Routing.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.utilities.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.deprecated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.FrameSync.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.DynamicLoad.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\ThirdParty\NDI\Includes\Processing.NDI.Lib.cplusplus.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Structures/NDIBroadcastConfiguration.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIBroadcastConfiguration.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Objects/Media/NDIMediaTexture2D.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIMediaTexture2D.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\MediaAssets\Public\BaseMediaSource.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\MediaAssets\Public\MediaSource.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Media\Public\IMediaOptions.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\MediaSource.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MediaAssets\BaseMediaSource.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIMediaSender.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Public\Slate/SceneViewport.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIViewportCaptureComponent.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIBroadcastActor.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIBroadcastComponent.gen.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core/Public/Components/NDIBroadcastComponent.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIBroadcastComponent.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIBroadcastConfiguration.gen.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIBroadcastConfigurationLibrary.gen.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core/Public/Objects/Libraries/NDIBroadcastConfigurationLibrary.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIBroadcastConfigurationLibrary.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIConnectionInformation.gen.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core/Public/Structures/NDIConnectionInformation.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Enumerations/NDISourceBandwidth.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDISourceBandwidth.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIConnectionInformation.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIConnectionInformationLibrary.gen.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core/Public/Objects/Libraries/NDIConnectionInformationLibrary.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIConnectionInformationLibrary.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIFinderComponent.gen.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core/Public/Components/NDIFinderComponent.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIFinderComponent.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIIO.init.gen.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIIOLibrary.gen.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core/Public/Objects/Libraries/NDIIOLibrary.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Objects/Media/NDIMediaReceiver.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Objects/Media/NDIMediaSoundWave.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundWave.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundBase.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound\SoundConcurrency.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundConcurrency.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundBase.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundGroups.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundGroups.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveLoadingBehavior.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\AudioPlatformConfiguration\Public\AudioCompressionSettings.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration\AudioCompressionSettings.generated.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWave.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIMediaSoundWave.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Structures/NDIReceiverPerformanceData.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIReceiverPerformanceData.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIMediaReceiver.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIIOLibrary.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIIOPluginSettings.gen.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core/Public/NDIIOPluginSettings.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIIOPluginSettings.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIMediaReceiver.gen.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIMediaSender.gen.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIMediaSoundWave.gen.cpp
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObjectFromStructuredArchive.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIMediaTexture2D.gen.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIReceiveActor.gen.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core/Public/Actors/NDIReceiveActor.h
+C:\ue_engine\engines\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+C:\ue_engine\engines\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core\Public\Components/NDIReceiverComponent.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIReceiverComponent.generated.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIReceiveActor.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIReceiverComponent.gen.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIReceiverPerformanceData.gen.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIReceiverPerformanceDataLibrary.gen.cpp
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Source\Core/Public/Objects/Libraries/NDIReceiverPerformanceDataLibrary.h
+C:\Users\remap\Documents\GitHub\LastDays\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UE4Editor\Inc\NDIIO\NDIReceiverPerformanceDataLibrary.generated.h
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDISourceBandwidth.gen.cpp
+C:/Users/remap/Documents/GitHub/LastDays/Plugins/NDIIOPlugin/Intermediate/Build/Win64/UE4Editor/Inc/NDIIO/NDIViewportCaptureComponent.gen.cpp
