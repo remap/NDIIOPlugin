@@ -34,6 +34,7 @@ class NDIIO_API UNDIReceiverComponent : public UActorComponent
 			Returns false, if the MediaSource is already been set. This is usually the case when this component is
 			initialized in Blueprints.
 		*/
+		UFUNCTION(BlueprintCallable, Category = "NDI IO")
 		bool Initialize(UNDIMediaReceiver* InMediaSource = nullptr);
 
 		/** 

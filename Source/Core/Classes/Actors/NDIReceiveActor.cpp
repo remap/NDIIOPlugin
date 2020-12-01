@@ -66,6 +66,11 @@ void ANDIReceiveActor::BeginPlay()
 	// call the base implementation for 'BeginPlay'
 	Super::BeginPlay();
 	
+	SetupMediaSource();
+}
+
+void ANDIReceiveActor::SetupMediaSource()
+{
 	// We need to validate that we have media source, so we can set the texture in the material instance
 	if (IsValid(this->NDIMediaSource))
 	{

@@ -67,6 +67,9 @@ class NDIIO_API ANDIReceiveActor : public AActor
 		virtual void BeginPlay() override;		
 		virtual void EndPlay(const EEndPlayReason::Type EndPlayReason) override;
 
+		UFUNCTION(BlueprintCallable)
+		virtual void SetupMediaSource();
+
 		/** 
 			Attempts to set the desired frame size in cm, represented in the virtual scene
 		*/
