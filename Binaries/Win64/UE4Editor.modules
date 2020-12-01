@@ -1,8 +1,0 @@
-{
-	"BuildId": "13144385",
-	"Modules": 
-	{
-		"NDIIO": "UE4Editor-NDIIO.dll",
-		"NDIIOEditor": "UE4Editor-NDIIOEditor.dll"
-	}
-}
