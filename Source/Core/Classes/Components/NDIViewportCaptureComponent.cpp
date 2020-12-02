@@ -400,7 +400,7 @@ void UNDIViewportCaptureComponent::EnsureViewInformation(bool ForceOverride)
 		// Update the ViewFamily with the properties we want to see in the capture
 		ViewFamily->ViewMode = VMI_Lit;
 		ViewFamily->EngineShowFlags = EngineShowFlags;
-		ViewFamily->EngineShowFlags.HitProxies = false;
+		//ViewFamily->EngineShowFlags.HitProxies = false;
 		ViewFamily->EngineShowFlags.ScreenSpaceReflections = true;
 		ViewFamily->EngineShowFlags.ReflectionEnvironment = true;
 		ViewFamily->SceneCaptureCompositeMode = SCCM_Additive;
