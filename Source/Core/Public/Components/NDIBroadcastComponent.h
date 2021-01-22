@@ -25,17 +25,22 @@ class NDIIO_API UNDIBroadcastComponent : public UActorComponent
 	GENERATED_UCLASS_BODY()
 
 	private:
-		/** The NDI Media Sender representing the configuration of the network source to send audio, video, and metadata */
-		UPROPERTY(EditDefaultsOnly, Category = "Properties", META = (DisplayName = "NDI Media Source", AllowPrivateAccess = true))
-		UNDIMediaSender* NDIMediaSource = nullptr;
+		
 
 	public:
+		/** The NDI Media Sender representing the configuration of the network source to send audio, video, and metadata */
+		UPROPERTY(EditAnywhere, Category = "Properties", META = (DisplayName = "NDI Media Source", AllowPrivateAccess = true))
+		UNDIMediaSender* NDIMediaSource = nullptr;
+
 		/** 
 			Initialize this component with the media source required for sending NDI audio, video, and metadata.
 			Returns false, if the MediaSource is already been set. This is usually the case when this component is
 			initialized in Blueprints.
 		*/
 		bool Initialize(UNDIMediaSender* InMediaSource = nullptr);
+
+		UFUNCTION(BlueprintCallable, Category = "NDI IO", META = (DisplayName = "Initialize"))
+		bool InitializeSource(UNDIMediaSender* InMediaSource = nullptr);
 
 		/** 
 			Attempts to start broadcasting audio, video, and metadata via the 'NDIMediaSource' associated with this object

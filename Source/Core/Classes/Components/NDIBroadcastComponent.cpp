@@ -28,12 +28,18 @@ bool UNDIBroadcastComponent::Initialize(UNDIMediaSender* InMediaSource)
 		if (this->NDIMediaSource == nullptr && InMediaSource != nullptr)
 		{
 			// we passed validation, so set the media source
-			this->NDIMediaSource = InMediaSource;
+			InitializeSource(InMediaSource);
 		}
 	}
 
 	// did we pass validation
 	return InMediaSource != nullptr && InMediaSource == NDIMediaSource;
+}
+
+bool UNDIBroadcastComponent::InitializeSource(UNDIMediaSender* InMediaSource)
+{
+	this->NDIMediaSource = InMediaSource;
+	return true;
 }
 
 /**
